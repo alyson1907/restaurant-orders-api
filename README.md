@@ -1,4 +1,4 @@
-# Restaurant Orders API
+# Restaurant Orders API - Versão 2
 
 Esta é uma API backend desenvolvida para fins educativos utilizando **Node.js** e **TypeScript**.
 
